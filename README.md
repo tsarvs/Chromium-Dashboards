@@ -1,4 +1,4 @@
 # Rotating-Chromium-Dashboard
 Raspbian release: September 2016
 
-A chromium dashboard setup script for raspbian. Includes javascript to rotate throught several URLs at specified time lengths. 
+A chromium dashboard setup script for raspbian. Includes javascript to rotate throught several URLs at specified time lengths. Please refer to wiki for setting up a raspberry pi.
