@@ -7,4 +7,10 @@
 @xset s off
 @xset -dpms
 
-@chromium-browser --noerrdialogs --kiosk [remove brackets and insert URL here]
+#Dashboard Options:
+
+##Default: Single URL
+@chromium-browser --noerrdialogs --kiosk www.google.com
+
+##For rotating dashboards. Comment out line above and uncomment line below.
+##@chromium-browser --noerrdialogs --kiosk ~/Desktop/res/dashboards.html
