@@ -1,0 +1,2 @@
+@sudo mv /res ~/Desktop
+@sudo cp ~/Desktop/res/autostart ~/.config/lxsession/LXDE-pi/autostart
