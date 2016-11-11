@@ -14,3 +14,6 @@
 
 ##For rotating dashboards. Comment out line above and uncomment line below.
 ##@chromium-browser --noerrdialogs --kiosk ~/Desktop/res/dashboards.html
+
+##For any questions, comments, or concers about dashboard setup/configuration,
+##refer to the wiki: https://github.com/tsarvs/Rotating-Chromium-Dashboard/wiki
